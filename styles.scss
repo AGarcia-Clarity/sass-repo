@@ -1,0 +1,11 @@
+$color: green;
+$other-color: blue;
+
+h1 {
+  color: $other-color;
+  font-size: 1.5em;
+}
+
+p {
+  color: $color;
+}
