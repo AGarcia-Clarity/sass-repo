@@ -4,13 +4,13 @@
  - In your local directory run `git clone https://URLonGitHub.git`
  - Navigate into the directory `cd sass-repo`
 
-1. Install Sass by running `npm install -D sass`
+### 1. Install Sass by running `npm install -D sass`
   - This will add it to 'dependencies' in the package.json
 
-2. Install Parcel by running `npm install -g parcel-bundler`
+### 2. Install Parcel by running `npm install -g parcel-bundler`
   - This will add parcel-bundler globably
 
-3. Run `npm run dev` to start the parcel bundler
+### 3. Run `npm run dev` to start the parcel bundler
 
 
 ## WTF is...
