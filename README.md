@@ -1,5 +1,5 @@
 ## Steps
-0. Clone this repo
+### 0. Clone this repo
  - Use the Green Code button to grab the URL (URL should end in .git) and copy it.
  - In your local directory run `git clone https://URLonGitHub.git`
  - Navigate into the directory `cd sass-repo`
