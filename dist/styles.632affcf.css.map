@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.scss"],"names":[],"mappings":"AAGA;EACE,OAHY;EAIZ;;;AAGF;EACE,OATM","file":"styles.632affcf.css","sourceRoot":"..","sourcesContent":["$color: green;\n$other-color: blue;\n\nh1 {\n  color: $other-color;\n  font-size: 1.5em;\n}\n\np {\n  color: $color;\n}"]}
